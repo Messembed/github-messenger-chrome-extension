@@ -24,6 +24,6 @@ if (nav) {
     </a>
     `;
 
-    nav.appendChild(newAnchorElement);
+    nav.appendChild(newAnchorElement.children[0]);
   }
 }
