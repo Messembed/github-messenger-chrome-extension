@@ -1,47 +1,13 @@
-# Chrome Extension TypeScript Starter
+# GitHub Messenger Chrome Extension (WIP)
+![GitHub navbar with Messenger button](./messenger-menu-preview.png)
 
-[![Build Status](https://travis-ci.org/chibat/chrome-extension-typescript-starter.svg?branch=master)](https://travis-ci.org/chibat/chrome-extension-typescript-starter)
-
-Chrome Extension, TypeScript and Visual Studio Code
-
-## Prerequisites
-
-* [node + npm](https://nodejs.org/) (Current Version)
-
-## Option
-
-* [Visual Studio Code](https://code.visualstudio.com/)
-
-## Includes the following
-
-* TypeScript
-* Webpack
-* Moment.js
-* jQuery
-* Jest
-* Example Code
-    * Chrome Storage
-    * Options Version 2
-    * content script
-    * count up badge number
-    * background
-
-## Project Structure
-
-* src/typescript: TypeScript source files
-* src/assets: static files
-* dist: Chrome Extension directory
-* dist/js: Generated JavaScript files
+> This is a work in process project, and the screenshot is a preview of what it aims to achieve. Stay tuned so you will catch the moment when **GitHub gets its own Messenger** 🔥
 
 ## Setup
 
 ```
 npm install
 ```
-
-## Import as Visual Studio Code project
-
-...
 
 ## Build
 

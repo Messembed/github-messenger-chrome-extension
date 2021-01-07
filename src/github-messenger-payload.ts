@@ -10,8 +10,14 @@ newAnchorElement.innerHTML = `
   data-ga-click="Header, click, Nav menu - item:explore"
   data-selected-linkss="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore"
   href="#"
+  style="position: relative"
 >
   Messenger
+  <div
+    style="position: absolute; background: red; width: 14pt; height: 14pt; text-align: center; font-size: 8pt; line-height: 14pt; border-radius: 50%; top: 6pt; right: -12pt;"
+  >
+    +9
+  </div>
 </a>
 `
 
